@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{250424d7-e95e-4d6b-bf70-efbefbb2d80a}</ProjectGuid>
-    <RootNamespace>My20223D</RootNamespace>
+    <ProjectGuid>{771e0344-1c29-4fc3-bcf8-3d71bb186000}</ProjectGuid>
+    <RootNamespace>MY20223D</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>referenced_2022_3D_</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="referenced to taehyoung.cpp" />
+    <ClCompile Include="On_My_Own.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

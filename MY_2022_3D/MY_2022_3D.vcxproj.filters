@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="referenced to taehyoung.cpp">
+    <ClCompile Include="On_My_Own.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

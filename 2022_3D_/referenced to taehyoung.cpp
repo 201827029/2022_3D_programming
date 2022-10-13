@@ -6,6 +6,7 @@
 #include <glm/glm.hpp>  //GLM에서 사용할 수 있는 행렬을 비롯한 여러 자료형을 가지고 있음
 #include <glm/gtc/matrix_transform.hpp> //행렬 변환에 사용되는 수항 함수들을 가지고 있음
 
+//태형이가 보내준 것 참고하면서 공부하였음
 
 #pragma comment(lib, "OpenGL32")
 
@@ -30,7 +31,6 @@ struct Transform
     glm::mat3 scale;
     glm::mat3 rotation;
 };
-
 
 Vertex star[5];             // static mesh
 Vertex transformedStar[5];  //화면에 그릴 오망성
@@ -161,7 +161,6 @@ void Init()
         0, 1, 0,
         0, 0, 1
     );
-
 
 }
 
