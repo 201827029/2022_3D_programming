@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="referenced to taehyoung.cpp" />
+    <ClCompile Include="referenced.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
