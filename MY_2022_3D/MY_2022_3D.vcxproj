@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="On_My_Own.cpp" />
+    <ClCompile Include="Move_Star.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -6,7 +6,7 @@
 #include <glm/glm.hpp>  //GLM에서 사용할 수 있는 행렬을 비롯한 여러 자료형을 가지고 있음
 #include <glm/gtc/matrix_transform.hpp> //행렬 변환에 사용되는 수항 함수들을 가지고 있음
 
-// 참고하여 직접 작성
+// 친구의 도움으로 참고하여 작성
 
 #pragma comment(lib, "OpenGL32")
 
