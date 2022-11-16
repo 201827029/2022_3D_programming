@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="matrix3">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAACAAAAAAAAAABAAAAAAQAAAABAAAAgAAAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vector3">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgABAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matrix4">
+    <Position X="2.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAAACAAAAAQAAAABAAAAgAAAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vector3_2">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAiEAAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vector4">
+    <Position X="3" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAwABAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vector4_2">
+    <Position X="5.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAgIAAAAAA=</HashCode>
+      <FileName>MuSoenMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Vertex">
+    <Position X="0.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAoAQABAAAAAAA=</HashCode>
+      <FileName>Move_Star.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
